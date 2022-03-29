@@ -3,9 +3,9 @@
 
 ## Sliding Window 
 
-| #  | Title  | Solution  | Link  |
+| #  | Title  |  Difficulty  | Solution  | Link  |
 | ------------- | ------------- | ------------- | ------------- |
-| 53  | Maximum Subarray | [link](Solutions/53.cs)  | [link](https://leetcode.com/problems/maximum-subarray/)  |
+| 53  | Maximum Subarray | Easy | [link](Solutions/53.cs)  | [link](https://leetcode.com/problems/maximum-subarray/)  |
 
 
 
