@@ -5,7 +5,7 @@
 
 | #  | Title  | Solution  | Link  |
 | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | [link](Solutions/53.cs)  | Content Cell  |
-| Content Cell  | Content Cell  | [a relative link](other_file.md)  | Content Cell  |
+| 53  | Maximum Subarray | [link](Solutions/53.cs)  | [link](https://leetcode.com/problems/maximum-subarray/)  |
+
 
 
