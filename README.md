@@ -6,17 +6,17 @@
 | #  | Title  |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 53 | Maximum Subarray | Easy | [link](Solutions/53.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 209 | Minimum Size Subarray Sum | Medium | [link](Solutions/209.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 340 | Longest Substring with At Most K Distinct Characters | Medium | [link](Solutions/340.cs) | [link](https://leetcode.com/problems/maximum-subarray/)|
-| 904 | Fruit Into Baskets | Medium | [link](Solutions/904.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 3 | Longest Substring Without Repeasting Characters | Medium | [link](Solutions/3.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 424 | Longest Repeating Character Replacement | Medium | [link](Solutions/424.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 1004 | Max Consecutive Ones III | Medium | [link](Solutions/1004.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 567 | Permutation In String | Medium | [link](Solutions/567.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 438 | Find All Anagrams In a String | Medium | [link](Solutions/438.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 76 | Minimum Window Substring | Hard | [link](Solutions/76.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 30 | Substring With Concatenation Of All Words | Hard | [link](Solutions/30.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 713 | Subarray Product Less Than K | Medium | [link](Solutions/713.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
+| 209 | Minimum Size Subarray Sum | Medium | [link](Solutions/209.cs) | [link](https://leetcode.com/problems/minimum-size-subarray-sum/) |
+| 340 | Longest Substring with At Most K Distinct Characters | Medium | [link](Solutions/340.cs) | [link](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|
+| 904 | Fruit Into Baskets | Medium | [link](Solutions/904.cs) | [link](https://leetcode.com/problems/fruit-into-baskets/) |
+| 3 | Longest Substring Without Repeasting Characters | Medium | [link](Solutions/3.cs) | [link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| 424 | Longest Repeating Character Replacement | Medium | [link](Solutions/424.cs) | [link](https://leetcode.com/problems/longest-repeating-character-replacement/) |
+| 1004 | Max Consecutive Ones III | Medium | [link](Solutions/1004.cs) | [link](https://leetcode.com/problems/max-consecutive-ones-iii/) |
+| 567 | Permutation In String | Medium | [link](Solutions/567.cs) | [link](https://leetcode.com/problems/permutation-in-string/) |
+| 438 | Find All Anagrams In a String | Medium | [link](Solutions/438.cs) | [link](https://leetcode.com/problems/find-all-anagrams-in-a-string/) |
+| 76 | Minimum Window Substring | Hard | [link](Solutions/76.cs) | [link](https://leetcode.com/problems/minimum-window-substring/) |
+| 30 | Substring With Concatenation Of All Words | Hard | [link](Solutions/30.cs) | [link](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) |
+| 713 | Subarray Product Less Than K | Medium | [link](Solutions/713.cs) | [link](https://leetcode.com/problems/subarray-product-less-than-k/) |
 
 
 
@@ -24,16 +24,16 @@
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1 | Two Sum | Easy | [link](Solutions/1.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 26 | Remove Duplicates From Sorted Array | Easy | [link](Solutions/26.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 977 | Squares of a Sorted Array | Easy | [link](Solutions/977.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 15 | 3Sum | Medium | [link](Solutions/15.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 16 | 3Sum Closest | Medium | [link](Solutions/16.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 259 | 3Sum Smaller | Medium | [link](Solutions/259.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 75 | Sort Colors | Medium | [link](Solutions/75.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 18 | 4Sum | Medium | [link](Solutions/18.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 844 | Backspace String Compare | Easy | [link](Solutions/844.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 581 | Shortest Unsorted Continuous Subarray | Easy | [link](Solutions/581.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
+| 1 | Two Sum | Easy | [link](Solutions/1.cs) | [link](https://leetcode.com/problems/two-sum/) |
+| 26 | Remove Duplicates From Sorted Array | Easy | [link](Solutions/26.cs) | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 977 | Squares of a Sorted Array | Easy | [link](Solutions/977.cs) | [link](https://leetcode.com/problems/squares-of-a-sorted-array/) |
+| 15 | 3Sum | Medium | [link](Solutions/15.cs) | [link](https://leetcode.com/problems/3sum/) |
+| 16 | 3Sum Closest | Medium | [link](Solutions/16.cs) | [link](https://leetcode.com/problems/3sum-closest/) |
+| 259 | 3Sum Smaller | Medium | [link](Solutions/259.cs) | [link](https://leetcode.com/problems/3sum-smaller/) |
+| 75 | Sort Colors | Medium | [link](Solutions/75.cs) | [link](https://leetcode.com/problems/sort-colors/) |
+| 18 | 4Sum | Medium | [link](Solutions/18.cs) | [link](https://leetcode.com/problems/4sum/) |
+| 844 | Backspace String Compare | Easy | [link](Solutions/844.cs) | [link](https://leetcode.com/problems/backspace-string-compare/) |
+| 581 | Shortest Unsorted Continuous Subarray | Easy | [link](Solutions/581.cs) | [link](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) |
 
 
 
