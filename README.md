@@ -107,13 +107,13 @@
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 112 | Path Sum | Easy | [link](Solutions/112.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 113 | Path Sum II | Medium | [link](Solutions/113.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 129 | Sum Root To Leaf Numbers | Medium | [link](Solutions/129.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 1430 | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Easy | [link](Solutions/1430.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 437 | Path Sum III | Medium | [link](Solutions/437.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 543 | Diameter Of Binary Tree | Easy | [link](Solutions/543.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 124 | Binary Tree Maximum Path Sum | Hard | [link](Solutions/124.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
+| 112 | Path Sum | Easy | [link](Solutions/112.cs) | [link](https://leetcode.com/problems/path-sum/) |
+| 113 | Path Sum II | Medium | [link](Solutions/113.cs) | [link](https://leetcode.com/problems/path-sum-ii/) |
+| 129 | Sum Root To Leaf Numbers | Medium | [link](Solutions/129.cs) | [link](https://leetcode.com/problems/sum-root-to-leaf-numbers/) |
+| 1430 | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Easy | [link](Solutions/1430.cs) | [link](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/description/) |
+| 437 | Path Sum III | Medium | [link](Solutions/437.cs) | [link](https://leetcode.com/problems/path-sum-iii/) |
+| 543 | Diameter Of Binary Tree | Easy | [link](Solutions/543.cs) | [link](https://leetcode.com/problems/diameter-of-binary-tree/) |
+| 124 | Binary Tree Maximum Path Sum | Hard | [link](Solutions/124.cs) | [link](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |
 
 
 
@@ -122,10 +122,10 @@
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 295 | Find Median from Data Streams | Hard | [link](Solutions/295.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 480 | Sliding Window Median | Hard | [link](Solutions/480.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 502 | IPO | Hard | [link](Solutions/502.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 436 | Find Right Interval | Medium | [link](Solutions/436.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
+| 295 | Find Median from Data Streams | Hard | [link](Solutions/295.cs) | [link](https://leetcode.com/problems/find-median-from-data-stream/) |
+| 480 | Sliding Window Median | Hard | [link](Solutions/480.cs) | [link](https://leetcode.com/problems/sliding-window-median/) |
+| 502 | IPO | Hard | [link](Solutions/502.cs) | [link](https://leetcode.com/problems/ipo/) |
+| 436 | Find Right Interval | Medium | [link](Solutions/436.cs) | [link](https://leetcode.com/problems/find-right-interval/) |
 
 
 
@@ -133,15 +133,15 @@
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 78 | Subsets | Medium | [link](Solutions/78.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 90 | Subsets II | Medium | [link](Solutions/90.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 46 | Permutations | Medium | [link](Solutions/46.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 784 | Letter Case Permutation | Easy | [link](Solutions/784.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 22 | Generate Parentheses | Medium | [link](Solutions/22.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 320 | Generalized Abbreviations | Medium | [link](Solutions/320.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 241 | Different Ways To Add Parentheses | Medium | [link](Solutions/241.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 95 | Unique Binary Search Trees II | Medium | [link](Solutions/95.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 96 | Unique Binary Search Trees | Medium | [link](Solutions/96.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
+| 78 | Subsets | Medium | [link](Solutions/78.cs) | [link](https://leetcode.com/problems/subsets/) |
+| 90 | Subsets II | Medium | [link](Solutions/90.cs) | [link](https://leetcode.com/problems/subsets-ii/) |
+| 46 | Permutations | Medium | [link](Solutions/46.cs) | [link](https://leetcode.com/problems/permutations/) |
+| 784 | Letter Case Permutation | Easy | [link](Solutions/784.cs) | [link](https://leetcode.com/problems/letter-case-permutation/) |
+| 22 | Generate Parentheses | Medium | [link](Solutions/22.cs) | [link](https://leetcode.com/problems/generate-parentheses/) |
+| 320 | Generalized Abbreviations | Medium | [link](Solutions/320.cs) | [link](https://leetcode.com/problems/generalized-abbreviation/) |
+| 241 | Different Ways To Add Parentheses | Medium | [link](Solutions/241.cs) | [link](https://leetcode.com/problems/different-ways-to-add-parentheses/) |
+| 95 | Unique Binary Search Trees II | Medium | [link](Solutions/95.cs) | [link](https://leetcode.com/problems/unique-binary-search-trees-ii/) |
+| 96 | Unique Binary Search Trees | Medium | [link](Solutions/96.cs) | [link](https://leetcode.com/problems/unique-binary-search-trees/) |
 
 
 
@@ -149,15 +149,15 @@
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 704 | Binary Search | Easy | [link](Solutions/704.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 744 | Find Smallest Letter Greater Than Target | Easy | [link](Solutions/744.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 34 | Find First and Last Position of Element in Sorted Array | Medium | [link](Solutions/34.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 702 | Search in a Sorted Array of Unknown Size | Easy | [link](Solutions/702.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 658 | Find K Closest Elements | Medium | [link](Solutions/658.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 852 | Peak Index in a Mountain Array | Easy | [link](Solutions/852.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 1095 | Find in Mountain Array | Hard | [link](Solutions/1095.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 33 | Search in Rotated Sorted Array | Medium | [link](Solutions/33.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 1539 | Kth Missing Positive Number | Easy | [link](Solutions/1539.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
+| 704 | Binary Search | Easy | [link](Solutions/704.cs) | [link](https://leetcode.com/problems/binary-search/) |
+| 744 | Find Smallest Letter Greater Than Target | Easy | [link](Solutions/744.cs) | [link](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) |
+| 34 | Find First and Last Position of Element in Sorted Array | Medium | [link](Solutions/34.cs) | [link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
+| 702 | Search in a Sorted Array of Unknown Size | Easy | [link](Solutions/702.cs) | [link](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) |
+| 658 | Find K Closest Elements | Medium | [link](Solutions/658.cs) | [link](https://leetcode.com/problems/find-k-closest-elements/) |
+| 852 | Peak Index in a Mountain Array | Easy | [link](Solutions/852.cs) | [link](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |
+| 1095 | Find in Mountain Array | Hard | [link](Solutions/1095.cs) | [link](https://leetcode.com/problems/find-in-mountain-array/) |
+| 33 | Search in Rotated Sorted Array | Medium | [link](Solutions/33.cs) | [link](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
+| 1539 | Kth Missing Positive Number | Easy | [link](Solutions/1539.cs) | [link](https://leetcode.com/problems/kth-missing-positive-number/) |
 
 
 
@@ -165,10 +165,10 @@
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 136 | Single Number | Easy | [link](Solutions/136.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 260 | Single Number II | Easy | [link](Solutions/260.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 1009 | Complement Of Base 10 Integer | Medium | [link](Solutions/1009.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 832 | Flipping An Image | Easy | [link](Solutions/832.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
+| 136 | Single Number | Easy | [link](Solutions/136.cs) | [link](https://leetcode.com/problems/single-number/) |
+| 260 | Single Number II | Easy | [link](Solutions/260.cs) | [link](https://leetcode.com/problems/single-number-iii/) |
+| 1009 | Complement Of Base 10 Integer | Medium | [link](Solutions/1009.cs) | [link](https://leetcode.com/problems/complement-of-base-10-integer/) |
+| 832 | Flipping An Image | Easy | [link](Solutions/832.cs) | [link](https://leetcode.com/problems/flipping-an-image/) |
 
 
 
