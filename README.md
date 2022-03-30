@@ -41,13 +41,13 @@
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 141 | Linked List Cycle | Easy | [link](Solutions/141.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 142 | Linked List Cycle II | Medium | [link](Solutions/142.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 202 | Happy Number | Easy | [link](Solutions/202.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 876 | Middle Of The Linked List | Easy | [link](Solutions/876.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 234 | Palindrome Linked List | Easy | [link](Solutions/234.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 143 | Reorder List | Medium | [link](Solutions/143.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 457 | Circular Array Loop | Medium | [link](Solutions/457.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
+| 141 | Linked List Cycle | Easy | [link](Solutions/141.cs) | [link](https://leetcode.com/problems/linked-list-cycle/) |
+| 142 | Linked List Cycle II | Medium | [link](Solutions/142.cs) | [link](https://leetcode.com/problems/linked-list-cycle-ii/) |
+| 202 | Happy Number | Easy | [link](Solutions/202.cs) | [link](https://leetcode.com/problems/happy-number/) |
+| 876 | Middle Of The Linked List | Easy | [link](Solutions/876.cs) | [link](https://leetcode.com/problems/middle-of-the-linked-list/) |
+| 234 | Palindrome Linked List | Easy | [link](Solutions/234.cs) | [link](https://leetcode.com/problems/palindrome-linked-list/) |
+| 143 | Reorder List | Medium | [link](Solutions/143.cs) | [link](https://leetcode.com/problems/reorder-list/) |
+| 457 | Circular Array Loop | Medium | [link](Solutions/457.cs) | [link](https://leetcode.com/problems/circular-array-loop/) |
 
 
 
@@ -55,13 +55,13 @@
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 56 | Merge Intervals | Easy | [link](Solutions/56.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 57 | Insert Intervals | Medium | [link](Solutions/57.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 986 | Interval List Intersections | Medium | [link](Solutions/986.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 252 | Meeting Rooms | Easy | [link](Solutions/252.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 253 | Meeting Rooms II | Medium | [link](Solutions/253.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 759 | Employee Free Time | Hard | [link](Solutions/759.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 435 | Non-overlapping Intervals | Medium | [link](Solutions/435.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
+| 56 | Merge Intervals | Easy | [link](Solutions/56.cs) | [link](https://leetcode.com/problems/merge-intervals/) |
+| 57 | Insert Intervals | Medium | [link](Solutions/57.cs) | [link](https://leetcode.com/problems/insert-interval/) |
+| 986 | Interval List Intersections | Medium | [link](Solutions/986.cs) | [link](https://leetcode.com/problems/interval-list-intersections/) |
+| 252 | Meeting Rooms | Easy | [link](Solutions/252.cs) | [link](https://leetcode.com/problems/meeting-rooms/) |
+| 253 | Meeting Rooms II | Medium | [link](Solutions/253.cs) | [link](https://leetcode.com/problems/meeting-rooms-ii/) |
+| 759 | Employee Free Time | Hard | [link](Solutions/759.cs) | [link](https://leetcode.com/problems/employee-free-time/) |
+| 435 | Non-overlapping Intervals | Medium | [link](Solutions/435.cs) | [link](https://leetcode.com/problems/non-overlapping-intervals/) |
 
 
 
@@ -69,12 +69,12 @@
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 268 | Missing Number | Easy | [link](Solutions/268.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 448 | Find All Numbers Disappeared In An Array | Easy | [link](Solutions/448.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 442 | Find All Duplicates In An Array | Medium | [link](Solutions/442.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 287 | Find The Duplicate Number | Medium | [link](Solutions/287.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 41 | MFirst Missing Positive | Hard | [link](Solutions/41.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 645 | Set Mismatch | Easy | [link](Solutions/645.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
+| 268 | Missing Number | Easy | [link](Solutions/268.cs) | [link](https://leetcode.com/problems/missing-number/) |
+| 448 | Find All Numbers Disappeared In An Array | Easy | [link](Solutions/448.cs) | [link](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |
+| 442 | Find All Duplicates In An Array | Medium | [link](Solutions/442.cs) | [link](https://leetcode.com/problems/find-all-duplicates-in-an-array/) |
+| 287 | Find The Duplicate Number | Medium | [link](Solutions/287.cs) | [link](https://leetcode.com/problems/find-the-duplicate-number/) |
+| 41 | First Missing Positive | Hard | [link](Solutions/41.cs) | [link](https://leetcode.com/problems/first-missing-positive/) |
+| 645 | Set Mismatch | Easy | [link](Solutions/645.cs) | [link](https://leetcode.com/problems/set-mismatch/) |
 
 
 
@@ -82,10 +82,10 @@
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 206 | Reverse LinkedList | Easy | [link](Solutions/206.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 92 | Reverse LinkedList II | Medium | [link](Solutions/92.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 25 | Reverse Nodes In K Group | Hard | [link](Solutions/25.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 61 | Rotate List | Medium | [link](Solutions/61.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
+| 206 | Reverse LinkedList | Easy | [link](Solutions/206.cs) | [link](https://leetcode.com/problems/reverse-linked-list/) |
+| 92 | Reverse LinkedList II | Medium | [link](Solutions/92.cs) | [link](https://leetcode.com/problems/reverse-linked-list-ii/) |
+| 25 | Reverse Nodes In K Group | Hard | [link](Solutions/25.cs) | [link](https://leetcode.com/problems/reverse-nodes-in-k-group/) |
+| 61 | Rotate List | Medium | [link](Solutions/61.cs) | [link](https://leetcode.com/problems/rotate-list/) |
 
 
 
@@ -93,13 +93,13 @@
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 102 | Binary Tree Level Order Traversal | Medium | [link](Solutions/102.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 107 | Binary Tree Level Order Traversal II | Medium | [link](Solutions/107.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 103 | Binary Tree ZigZag Level Order Traversal | Medium | [link](Solutions/103.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 111 | Minimum Depth Of Binary Tree | Easy | [link](Solutions/111.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 285 | Inorder Successor In BST | Medium | [link](Solutions/285.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 116 | Populating Next Right Pointers In Each Node | Medium | [link](Solutions/116.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 199 | Binary Tree Right Side View | Medium | [link](Solutions/199.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
+| 102 | Binary Tree Level Order Traversal | Medium | [link](Solutions/102.cs) | [link](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
+| 107 | Binary Tree Level Order Traversal II | Medium | [link](Solutions/107.cs) | [link](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) |
+| 103 | Binary Tree ZigZag Level Order Traversal | Medium | [link](Solutions/103.cs) | [link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |
+| 111 | Minimum Depth Of Binary Tree | Easy | [link](Solutions/111.cs) | [link](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
+| 285 | Inorder Successor In BST | Medium | [link](Solutions/285.cs) | [link](https://leetcode.com/problems/inorder-successor-in-bst/) |
+| 116 | Populating Next Right Pointers In Each Node | Medium | [link](Solutions/116.cs) | [link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |
+| 199 | Binary Tree Right Side View | Medium | [link](Solutions/199.cs) | [link](https://leetcode.com/problems/binary-tree-right-side-view/) |
 
 
 
