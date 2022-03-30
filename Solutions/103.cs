@@ -17,6 +17,9 @@ public class Solution {
         
         IList<IList<int>> results = new List<IList<int>>();
         
+        if(root == null)
+            return results;
+        
         Queue<TreeNode> queue = new Queue<TreeNode>();
         queue.Enqueue(root);
         
