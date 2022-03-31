@@ -176,18 +176,18 @@
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 215 | Kth Largest Element in an Array | Medium | [link](Solutions/215.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 973 | K Closest Points to Origin | Medium | [link](Solutions/973.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 1167 | Minimum Cost to Connect Sticks | Medium | [link](Solutions/1167.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 347 | Search in a Sorted Array of Unknown Size | Easy | [link](Solutions/347.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 451 | Sort Characters By Frequency | Medium | [link](Solutions/451.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 703 | Kth Largest Element in a Stream | Easy | [link](Solutions/703.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 658 | Find K Closest Elements | Medium | [link](Solutions/658.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 1481 | Least Number of Unique Integers after K Removals | Medium | [link](Solutions/1481.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 767 | Reorganize String | Medium | [link](Solutions/767.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 358 | Rearrange String k Distance Apart | Hard | [link](Solutions/358.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 621 | Task Scheduler | Medium | [link](Solutions/621.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 895 | Maximum Frequency Stack | Hard | [link](Solutions/895.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
+| 215 | Kth Largest Element in an Array | Medium | [link](Solutions/215.cs) | [link](https://leetcode.com/problems/kth-largest-element-in-an-array) |
+| 973 | K Closest Points to Origin | Medium | [link](Solutions/973.cs) | [link](https://leetcode.com/problems/k-closest-points-to-origin/) |
+| 1167 | Minimum Cost to Connect Sticks | Medium | [link](Solutions/1167.cs) | [link](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) |
+| 347 | Top K Frequent Elements | Easy | [link](Solutions/347.cs) | [link](https://leetcode.com/problems/top-k-frequent-elements/) |
+| 451 | Sort Characters By Frequency | Medium | [link](Solutions/451.cs) | [link](https://leetcode.com/problems/sort-characters-by-frequency/) |
+| 703 | Kth Largest Element in a Stream | Easy | [link](Solutions/703.cs) | [link](https://leetcode.com/problems/kth-largest-element-in-a-stream/) |
+| 658 | Find K Closest Elements | Medium | [link](Solutions/658.cs) | [link](https://leetcode.com/problems/find-k-closest-elements/) |
+| 1481 | Least Number of Unique Integers after K Removals | Medium | [link](Solutions/1481.cs) | [link](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) |
+| 767 | Reorganize String | Medium | [link](Solutions/767.cs) | [link](https://leetcode.com/problems/reorganize-string/) |
+| 358 | Rearrange String k Distance Apart | Hard | [link](Solutions/358.cs) | [link](https://leetcode.com/problems/rearrange-string-k-distance-apart/) |
+| 621 | Task Scheduler | Medium | [link](Solutions/621.cs) | [link](https://leetcode.com/problems/task-scheduler/) |
+| 895 | Maximum Frequency Stack | Hard | [link](Solutions/895.cs) | [link](https://leetcode.com/problems/maximum-frequency-stack/) |
 
 
 
@@ -195,10 +195,10 @@
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 23 | Merge k Sorted Lists | Easy | [link](Solutions/23.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 378 | Kth Smallest Element in a Sorted Matrix | Hard | [link](Solutions/378.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 632 | Smallest Range Covering Elements from K Lists | Medium | [link](Solutions/632.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 373 | Find K Pairs with Smallest Sums | Hard | [link](Solutions/373.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
+| 23 | Merge k Sorted Lists | Easy | [link](Solutions/23.cs) | [link](https://leetcode.com/problems/merge-k-sorted-lists/) |
+| 378 | Kth Smallest Element in a Sorted Matrix | Hard | [link](Solutions/378.cs) | [link](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |
+| 632 | Smallest Range Covering Elements from K Lists | Medium | [link](Solutions/632.cs) | [link](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) |
+| 373 | Find K Pairs with Smallest Sums | Hard | [link](Solutions/373.cs) | [link](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) |
 
 
 
@@ -206,11 +206,11 @@
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 416 | Partition Equal Subset Sum | Easy | [link](Solutions/416.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 1049 | Last Stone Weight II | Medium | [link](Solutions/1049.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 40 | Combination Sum II | Medium | [link](Solutions/40.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 494 | Target Sum | Medium | [link](Solutions/494.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 474 | Ones and Zeroes | Medium | [link](Solutions/474.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
+| 416 | Partition Equal Subset Sum | Easy | [link](Solutions/416.cs) | [link](https://leetcode.com/problems/partition-equal-subset-sum/) |
+| 1049 | Last Stone Weight II | Medium | [link](Solutions/1049.cs) | [link](https://leetcode.com/problems/last-stone-weight-ii/) |
+| 40 | Combination Sum II | Medium | [link](Solutions/40.cs) | [link](https://leetcode.com/problems/combination-sum-ii/) |
+| 494 | Target Sum | Medium | [link](Solutions/494.cs) | [link](https://leetcode.com/problems/target-sum/) |
+| 474 | Ones and Zeroes | Medium | [link](Solutions/474.cs) | [link](https://leetcode.com/problems/ones-and-zeroes/) |
 
 
 
@@ -218,11 +218,11 @@
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 207 | Course Schedule | Medium | [link](Solutions/207.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 210 | Course Schedule II | Medium | [link](Solutions/210.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 269 | Alien Dictionary | Hard | [link](Solutions/269.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 444 | Sequence Reconstruction | Medium | [link](Solutions/444.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
-| 310 | Minimum Height Trees | Medium | [link](Solutions/310.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
+| 207 | Course Schedule | Medium | [link](Solutions/207.cs) | [link](https://leetcode.com/problems/course-schedule/) |
+| 210 | Course Schedule II | Medium | [link](Solutions/210.cs) | [link](https://leetcode.com/problems/course-schedule-ii/) |
+| 269 | Alien Dictionary | Hard | [link](Solutions/269.cs) | [link](https://leetcode.com/problems/alien-dictionary/) |
+| 444 | Sequence Reconstruction | Medium | [link](Solutions/444.cs) | [link](https://leetcode.com/problems/sequence-reconstruction/description/) |
+| 310 | Minimum Height Trees | Medium | [link](Solutions/310.cs) | [link](https://leetcode.com/problems/minimum-height-trees/) |
 
 
 
@@ -230,4 +230,4 @@
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 215 | Kth Largest Element in an Array | Medium | [link](Solutions/215.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
+| 215 | Kth Largest Element in an Array | Medium | [link](Solutions/215.cs) | [link](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
