@@ -3,7 +3,7 @@
 
 ### Sliding Window 
 
-| <div style="width:290px">#</div> | Title  |  Difficulty  | Solution  | Question  |
+| # | Title  |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 53 | Maximum Subarray | Easy | [link](Solutions/53.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
 | 209 | Minimum Size Subarray Sum | Medium | [link](Solutions/209.cs) | [link](https://leetcode.com/problems/minimum-size-subarray-sum/) |
