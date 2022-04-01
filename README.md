@@ -107,6 +107,7 @@
 Tree Breadth First Search Template (Iterative using queue)
 ```c#
 public IList<IList<int>> LevelOrder(TreeNode root) {
+      //  *sometimes need list declaration here
       if(root == null)                                //  check if root is null and return something
           return ;
 
