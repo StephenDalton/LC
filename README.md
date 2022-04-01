@@ -21,7 +21,7 @@
 ##### Sliding Window Template
 
 
-
+---
 ### Two Pointers 
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
@@ -38,7 +38,7 @@
 | 581 | Shortest Unsorted Continuous Subarray | Easy | [link](Solutions/581.cs) | [link](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) |
 
 
-
+---
 ### Fast & Slow Pointers 
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
@@ -52,7 +52,7 @@
 | 457 | Circular Array Loop | Medium | [link](Solutions/457.cs) | [link](https://leetcode.com/problems/circular-array-loop/) |
 
 
-
+---
 ### Merge Intervals
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
@@ -66,7 +66,7 @@
 | 435 | Non-overlapping Intervals | Medium | [link](Solutions/435.cs) | [link](https://leetcode.com/problems/non-overlapping-intervals/) |
 
 
-
+---
 ### Cyclic Sort
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
@@ -79,7 +79,7 @@
 | 645 | Set Mismatch | Easy | [link](Solutions/645.cs) | [link](https://leetcode.com/problems/set-mismatch/) |
 
 
-
+---
 ### In-Place Reversal Of a LinkedList
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
@@ -90,7 +90,7 @@
 | 61 | Rotate List | Medium | [link](Solutions/61.cs) | [link](https://leetcode.com/problems/rotate-list/) |
 
 
-
+---
 ### Tree Breadth First Search
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
@@ -136,6 +136,8 @@ public IList<IList<int>> LevelOrder(TreeNode root) {
   }
 ```
 
+
+---
 ### Tree Depth First Search
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
@@ -150,7 +152,7 @@ public IList<IList<int>> LevelOrder(TreeNode root) {
 
 
 
-
+---
 ### Two Heaps
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
@@ -161,7 +163,7 @@ public IList<IList<int>> LevelOrder(TreeNode root) {
 | 436 | Find Right Interval | Medium | [link](Solutions/436.cs) | [link](https://leetcode.com/problems/find-right-interval/) |
 
 
-
+---
 ### Subsets
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
@@ -177,7 +179,7 @@ public IList<IList<int>> LevelOrder(TreeNode root) {
 | 96 | Unique Binary Search Trees | Medium | [link](Solutions/96.cs) | [link](https://leetcode.com/problems/unique-binary-search-trees/) |
 
 
-
+---
 ### Modified Binary Search
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
@@ -193,7 +195,7 @@ public IList<IList<int>> LevelOrder(TreeNode root) {
 | 1539 | Kth Missing Positive Number | Easy | [link](Solutions/1539.cs) | [link](https://leetcode.com/problems/kth-missing-positive-number/) |
 
 
-
+---
 ### Bitwise XOR
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
@@ -204,7 +206,7 @@ public IList<IList<int>> LevelOrder(TreeNode root) {
 | 832 | Flipping An Image | Easy | [link](Solutions/832.cs) | [link](https://leetcode.com/problems/flipping-an-image/) |
 
 
-
+---
 ### Top 'K' elements
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
@@ -223,7 +225,7 @@ public IList<IList<int>> LevelOrder(TreeNode root) {
 | 895 | Maximum Frequency Stack | Hard | [link](Solutions/895.cs) | [link](https://leetcode.com/problems/maximum-frequency-stack/) |
 
 
-
+---
 ### K-way merge
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
@@ -234,7 +236,7 @@ public IList<IList<int>> LevelOrder(TreeNode root) {
 | 373 | Find K Pairs with Smallest Sums | Hard | [link](Solutions/373.cs) | [link](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) |
 
 
-
+---
 ### 0/1 Knapsack
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
@@ -246,7 +248,7 @@ public IList<IList<int>> LevelOrder(TreeNode root) {
 | 474 | Ones and Zeroes | Medium | [link](Solutions/474.cs) | [link](https://leetcode.com/problems/ones-and-zeroes/) |
 
 
-
+---
 ### Topological Sort
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
@@ -258,7 +260,7 @@ public IList<IList<int>> LevelOrder(TreeNode root) {
 | 310 | Minimum Height Trees | Medium | [link](Solutions/310.cs) | [link](https://leetcode.com/problems/minimum-height-trees/) |
 
 
-
+---
 ### Misc
 
 | #  | Title  |  Difficulty  | Solution  | Question  |
