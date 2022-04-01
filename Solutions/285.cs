@@ -10,7 +10,6 @@
  */
 public class Solution {
     public TreeNode InorderSuccessor(TreeNode root, TreeNode p) {
-        
         TreeNode successor = null;
         
         while (root != null) 
