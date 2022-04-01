@@ -12,7 +12,46 @@
  *     }
  * }
  */
+
+//  BFS Solution
+
 public class Solution {
+    public int MinDepth(TreeNode root) {
+        if(root == null) 
+            return 0;
+        
+        Queue<TreeNode> queue = new Queue<TreeNode>();
+        queue.Enqueue(root);
+        
+        int depth = 1;
+        
+        while(queue.Count > 0)
+        {
+            int count = queue.Count;
+
+            for(int i=0; i<count; i++)
+            {
+                TreeNode currentNode = queue.Dequeue();
+                
+                if(currentNode.left == null && currentNode.right == null)
+                    return depth;
+
+                if(currentNode.left != null)
+                    queue.Enqueue(currentNode.left);
+                if(currentNode.right != null)
+                    queue.Enqueue(currentNode.right);
+            }
+            depth++;
+        }
+        
+        return depth;
+    }
+}
+
+
+//  DFS Solution
+
+public class SolutionDFS {
     public int MinDepth(TreeNode root) {
         if (root == null)
             return 0;
@@ -28,6 +67,7 @@ public class Solution {
 }
 
 /*
+    public int MinDepth(TreeNode root) {
         if (root == null)
             return 0;
         
@@ -38,4 +78,5 @@ public class Solution {
             return Math.Min(left, right) + 1;
         else
             return Math.Max(left, right) + 1;
+    }
 */
