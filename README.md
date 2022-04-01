@@ -104,6 +104,36 @@
 | 199 | Binary Tree Right Side View | Medium | [link](Solutions/199.cs) | [link](https://leetcode.com/problems/binary-tree-right-side-view/) |
 
 
+Tree Breadth First Search Template
+```
+public IList<IList<int>> LevelOrder(TreeNode root) {
+      if(root == null)                                //  check if root is null and return something
+          return ;
+
+      Queue<TreeNode> queue = new Queue<TreeNode>();  //  declare queue and add root to queue
+      queue.Enqueue(root);                            
+
+      while (queue.Count > 0)                         //  iterate through tree adding nodes to queue
+      {
+          int count = queue.Count;                    //  number of nodes on the current level
+
+          for (int i=0; i<count; i++)                 //  iterate through each node on current level
+          {
+              TreeNode currentNode = queue.Dequeue(); //  get current node
+              //  *sometimes need to add node to data structure here
+
+              if (currentNode.left != null)           //  add each left and right for each current node
+                  queue.Enqueue(currentNode.left);
+              if (currentNode.right != null)
+                  queue.Enqueue(currentNode.right);
+          }
+
+          //  *sometimes an assignment/addition to data structure is needed here
+      }
+
+      return results;
+  }
+```
 
 ### Tree Depth First Search
 
