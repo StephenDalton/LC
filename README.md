@@ -140,7 +140,7 @@ public IList<IList<int>> LevelOrder(TreeNode root) {
       }
 
       return results;
-  }
+}
 ```
 
 
@@ -157,6 +157,29 @@ public IList<IList<int>> LevelOrder(TreeNode root) {
 | 543 | Diameter Of Binary Tree | Easy | [link](Solutions/543.cs) | [link](https://leetcode.com/problems/diameter-of-binary-tree/) |
 | 124 | Binary Tree Maximum Path Sum | Hard | [link](Solutions/124.cs) | [link](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |
 
+
+Tree Depth First Search Template (Recursive)
+```c#
+public int MaxPathSum(TreeNode root) {
+  DFS(root);
+
+  return max;
+}
+
+private int DFS(TreeNode root) {
+  if (root == null)                             
+      return 0;
+      
+  * sometimes actions here
+
+  int left = Math.Max(DFS(root.left), 0);       //    call function using root.left and root.right
+  int right = Math.Max(DFS(root.right), 0);
+
+  * sometimes actions here
+
+  return ;                                      //    return left and right (||, &&, +)
+}
+```
 
 
 ---
