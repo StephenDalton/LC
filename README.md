@@ -166,16 +166,16 @@ public int SumNumbers(TreeNode root) {
       return max;
 }
 
-private int DFS(TreeNode root, *other params*) {
+private int DFS(TreeNode root, /*other params*/) {
       if (root == null)                             
             return 0;
 
-      * sometimes actions here
+      // * sometimes actions here
 
       int left = DFS(root.left, );       //    call function using root.left and root.right
       int right = DFS(root.left, );
 
-      * sometimes actions here
+      // * sometimes actions here
 
       return ;                                      //    return left and right (||, &&, +)
 }
