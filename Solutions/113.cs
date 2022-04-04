@@ -19,11 +19,11 @@ public class Solution {
         if(root == null)
             return results;
         
-        dfs(root, targetSum, new List<int>(), results);
+        DFS(root, targetSum, new List<int>(), results);
         return results;
     }
     
-    private void dfs(TreeNode root, int target, List<int> path, List<IList<int>> results)
+    private void DFS(TreeNode root, int target, List<int> path, List<IList<int>> results)
     {
         if(root == null)
             return;
@@ -33,8 +33,8 @@ public class Solution {
         if(root.left == null && root.right == null && root.val == target)
             results.Add(new List<int>(path));
         
-        dfs(root.left, target - root.val, path, results);
-        dfs(root.right, target - root.val, path, results);
+        DFS(root.left, target - root.val, path, results);
+        DFS(root.right, target - root.val, path, results);
         
         path.RemoveAt(path.Count - 1);
     }  
