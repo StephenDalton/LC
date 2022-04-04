@@ -13,26 +13,27 @@
  * }
  */
 public class Solution {
-    private int diameter = 0;
+    int length = 0;
     
     public int DiameterOfBinaryTree(TreeNode root) {
-        if (root.left == null && root.right == null) 
+        if (root.left == null && root.right == null)
             return 0;
-
-        height(root);
         
-        return diameter;
+        DFS(root);
+        
+        return length;
     }
-
-    private int height(TreeNode root) {
-        if (root == null) 
+    
+    private int DFS(TreeNode root)
+    {
+        if (root == null)
             return 0;
-
-        int leftHeight = height(root.left);
-        int rightHeight = height(root.right);
-
-        diameter = Math.Max(diameter, leftHeight + rightHeight);
-
-        return Math.Max(leftHeight, rightHeight) + 1;
+        
+        int left = DFS(root.left);
+        int right = DFS(root.right);
+        
+        length = Math.Max(length, left + right);
+        
+        return Math.Max(left, right) + 1;
     }
 }
