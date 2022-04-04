@@ -1,3 +1,10 @@
+Random Resources
+
+https://github.com/rizonkumar/LeetCode
+https://github.com/rizonkumar/LeetCode-Notes
+
+
+---
 ## Grokking Patterns
 
 
