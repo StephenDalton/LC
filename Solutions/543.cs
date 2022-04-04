@@ -13,7 +13,7 @@
  * }
  */
 public class Solution {
-    int diameter = 0;
+    private int diameter = 0;
     
     public int DiameterOfBinaryTree(TreeNode root) {
         if (root.left == null && root.right == null) 
