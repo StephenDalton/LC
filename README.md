@@ -1,3 +1,4 @@
+
 Random Resources
 
 https://github.com/rizonkumar/LeetCode
@@ -10,7 +11,7 @@ https://github.com/rizonkumar/LeetCode-Notes
 
 ### Sliding Window 
 
-| # | Title  |  Difficulty  | Solution  | Question  |
+| # | Title <img width=550/>  |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 53 | Maximum Subarray | Easy | [link](Solutions/53.cs) | [link](https://leetcode.com/problems/maximum-subarray/) |
 | 209 | Minimum Size Subarray Sum | Medium | [link](Solutions/209.cs) | [link](https://leetcode.com/problems/minimum-size-subarray-sum/) |
@@ -31,7 +32,7 @@ https://github.com/rizonkumar/LeetCode-Notes
 ---
 ### Two Pointers 
 
-| #  | Title  |  Difficulty  | Solution  | Question  |
+| #  | Title <img width=550/> |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1 | Two Sum | Easy | [link](Solutions/1.cs) | [link](https://leetcode.com/problems/two-sum/) |
 | 26 | Remove Duplicates From Sorted Array | Easy | [link](Solutions/26.cs) | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
@@ -48,7 +49,7 @@ https://github.com/rizonkumar/LeetCode-Notes
 ---
 ### Fast & Slow Pointers 
 
-| #  | Title  |  Difficulty  | Solution  | Question  |
+| #  | Title <img width=550/> |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 141 | Linked List Cycle | Easy | [link](Solutions/141.cs) | [link](https://leetcode.com/problems/linked-list-cycle/) |
 | 142 | Linked List Cycle II | Medium | [link](Solutions/142.cs) | [link](https://leetcode.com/problems/linked-list-cycle-ii/) |
@@ -62,7 +63,7 @@ https://github.com/rizonkumar/LeetCode-Notes
 ---
 ### Merge Intervals
 
-| #  | Title  |  Difficulty  | Solution  | Question  |
+| #  | Title <img width=550/> |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 56 | Merge Intervals | Easy | [link](Solutions/56.cs) | [link](https://leetcode.com/problems/merge-intervals/) |
 | 57 | Insert Intervals | Medium | [link](Solutions/57.cs) | [link](https://leetcode.com/problems/insert-interval/) |
@@ -76,7 +77,7 @@ https://github.com/rizonkumar/LeetCode-Notes
 ---
 ### Cyclic Sort
 
-| #  | Title  |  Difficulty  | Solution  | Question  |
+| #  | Title <img width=550/> |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 268 | Missing Number | Easy | [link](Solutions/268.cs) | [link](https://leetcode.com/problems/missing-number/) |
 | 448 | Find All Numbers Disappeared In An Array | Easy | [link](Solutions/448.cs) | [link](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |
@@ -89,7 +90,7 @@ https://github.com/rizonkumar/LeetCode-Notes
 ---
 ### In-Place Reversal Of a LinkedList
 
-| #  | Title  |  Difficulty  | Solution  | Question  |
+| #  | Title <img width=550/> |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 206 | Reverse LinkedList | Easy | [link](Solutions/206.cs) | [link](https://leetcode.com/problems/reverse-linked-list/) |
 | 92 | Reverse LinkedList II | Medium | [link](Solutions/92.cs) | [link](https://leetcode.com/problems/reverse-linked-list-ii/) |
@@ -100,7 +101,7 @@ https://github.com/rizonkumar/LeetCode-Notes
 ---
 ### Tree Breadth First Search
 
-| #  | Title  |  Difficulty  | Solution  | Question  |
+| #  | Title <img width=550/> |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 102 | Binary Tree Level Order Traversal | Medium | [link](Solutions/102.cs) | [link](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
 | 107 | Binary Tree Level Order Traversal II | Medium | [link](Solutions/107.cs) | [link](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) |
@@ -147,7 +148,7 @@ public IList<IList<int>> LevelOrder(TreeNode root) {
 ---
 ### Tree Depth First Search
 
-| #  | Title  |  Difficulty  | Solution  | Question  |
+| #  | Title <img width=550/> |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 112 | Path Sum | Easy | [link](Solutions/112.cs) | [link](https://leetcode.com/problems/path-sum/) |
 | 113 | Path Sum II | Medium | [link](Solutions/113.cs) | [link](https://leetcode.com/problems/path-sum-ii/) |
@@ -185,7 +186,7 @@ private int DFS(TreeNode root, /*other params*/) {
 ---
 ### Two Heaps
 
-| #  | Title  |  Difficulty  | Solution  | Question  |
+| #  | Title <img width=550/> |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 295 | Find Median from Data Streams | Hard | [link](Solutions/295.cs) | [link](https://leetcode.com/problems/find-median-from-data-stream/) |
 | 480 | Sliding Window Median | Hard | [link](Solutions/480.cs) | [link](https://leetcode.com/problems/sliding-window-median/) |
@@ -196,7 +197,7 @@ private int DFS(TreeNode root, /*other params*/) {
 ---
 ### Subsets
 
-| #  | Title  |  Difficulty  | Solution  | Question  |
+| #  | Title <img width=550/> |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 78 | Subsets | Medium | [link](Solutions/78.cs) | [link](https://leetcode.com/problems/subsets/) |
 | 90 | Subsets II | Medium | [link](Solutions/90.cs) | [link](https://leetcode.com/problems/subsets-ii/) |
@@ -212,7 +213,7 @@ private int DFS(TreeNode root, /*other params*/) {
 ---
 ### Modified Binary Search
 
-| #  | Title  |  Difficulty  | Solution  | Question  |
+| #  | Title <img width=550/> |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 704 | Binary Search | Easy | [link](Solutions/704.cs) | [link](https://leetcode.com/problems/binary-search/) |
 | 744 | Find Smallest Letter Greater Than Target | Easy | [link](Solutions/744.cs) | [link](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) |
@@ -228,7 +229,7 @@ private int DFS(TreeNode root, /*other params*/) {
 ---
 ### Bitwise XOR
 
-| #  | Title  |  Difficulty  | Solution  | Question  |
+| #  | Title <img width=550/> |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 136 | Single Number | Easy | [link](Solutions/136.cs) | [link](https://leetcode.com/problems/single-number/) |
 | 260 | Single Number II | Easy | [link](Solutions/260.cs) | [link](https://leetcode.com/problems/single-number-iii/) |
@@ -239,7 +240,7 @@ private int DFS(TreeNode root, /*other params*/) {
 ---
 ### Top 'K' elements
 
-| #  | Title  |  Difficulty  | Solution  | Question  |
+| #  | Title <img width=550/> |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 215 | Kth Largest Element in an Array | Medium | [link](Solutions/215.cs) | [link](https://leetcode.com/problems/kth-largest-element-in-an-array) |
 | 973 | K Closest Points to Origin | Medium | [link](Solutions/973.cs) | [link](https://leetcode.com/problems/k-closest-points-to-origin/) |
@@ -258,7 +259,7 @@ private int DFS(TreeNode root, /*other params*/) {
 ---
 ### K-way merge
 
-| #  | Title  |  Difficulty  | Solution  | Question  |
+| #  | Title <img width=550/> |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 23 | Merge k Sorted Lists | Easy | [link](Solutions/23.cs) | [link](https://leetcode.com/problems/merge-k-sorted-lists/) |
 | 378 | Kth Smallest Element in a Sorted Matrix | Hard | [link](Solutions/378.cs) | [link](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |
@@ -269,7 +270,7 @@ private int DFS(TreeNode root, /*other params*/) {
 ---
 ### 0/1 Knapsack
 
-| #  | Title  |  Difficulty  | Solution  | Question  |
+| #  | Title <img width=550/> |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 416 | Partition Equal Subset Sum | Easy | [link](Solutions/416.cs) | [link](https://leetcode.com/problems/partition-equal-subset-sum/) |
 | 1049 | Last Stone Weight II | Medium | [link](Solutions/1049.cs) | [link](https://leetcode.com/problems/last-stone-weight-ii/) |
@@ -281,7 +282,7 @@ private int DFS(TreeNode root, /*other params*/) {
 ---
 ### Topological Sort
 
-| #  | Title  |  Difficulty  | Solution  | Question  |
+| #  | Title <img width=550/> |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 207 | Course Schedule | Medium | [link](Solutions/207.cs) | [link](https://leetcode.com/problems/course-schedule/) |
 | 210 | Course Schedule II | Medium | [link](Solutions/210.cs) | [link](https://leetcode.com/problems/course-schedule-ii/) |
@@ -293,6 +294,6 @@ private int DFS(TreeNode root, /*other params*/) {
 ---
 ### Misc
 
-| #  | Title  |  Difficulty  | Solution  | Question  |
+| #  | Title <img width=550/> |  Difficulty  | Solution  | Question  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 215 | Kth Largest Element in an Array | Medium | [link](Solutions/215.cs) | [link](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
