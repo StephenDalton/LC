@@ -1,4 +1,3 @@
-//https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/39875/Elegant-Java-solution
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -13,23 +12,23 @@
  * }
  */
 public class Solution {
-    private int maxSum = Int32.MinValue;
+    private int max = Int32.MinValue;
     
     public int MaxPathSum(TreeNode root) {
         DFS(root);
         
-        return maxSum;
+        return max;
     }
     
     private int DFS(TreeNode root) {
-        if (root == null) 
+        if (root == null)
             return 0;
         
         int left = Math.Max(DFS(root.left), 0);
         int right = Math.Max(DFS(root.right), 0);
         
-        maxSum = Math.Max(maxSum, root.val + left + right);
+        max = Math.Max(max, left + right + root.val);
         
-        return root.val + Math.Max(left, right);
+        return Math.Max(left, right) + root.val;
     }
 }
