@@ -145,7 +145,7 @@ public IList<IList<int>> LevelOrder(TreeNode root) {
 | 112 | Path Sum | Easy | [link](Solutions/112.cs) | [link](https://leetcode.com/problems/path-sum/) |
 | 113 | Path Sum II | Medium | [link](Solutions/113.cs) | [link](https://leetcode.com/problems/path-sum-ii/) |
 | 129 | Sum Root To Leaf Numbers | Medium | [link](Solutions/129.cs) | [link](https://leetcode.com/problems/sum-root-to-leaf-numbers/) |
-| 1430 | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Easy | [link](Solutions/1430.cs) | [link](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/description/) |
+| 1430 | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Medium | [link](Solutions/1430.cs) | [link](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/description/) |
 | 437 | Path Sum III | Medium | [link](Solutions/437.cs) | [link](https://leetcode.com/problems/path-sum-iii/) |
 | 543 | Diameter Of Binary Tree | Easy | [link](Solutions/543.cs) | [link](https://leetcode.com/problems/diameter-of-binary-tree/) |
 | 124 | Binary Tree Maximum Path Sum | Hard | [link](Solutions/124.cs) | [link](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |
