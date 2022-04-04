@@ -160,20 +160,20 @@ public IList<IList<int>> LevelOrder(TreeNode root) {
 
 Tree Depth First Search Template (Recursive)
 ```c#
-public int MaxPathSum(TreeNode root) {
+public int SumNumbers(TreeNode root) {
   DFS(root);
 
   return max;
 }
 
-private int DFS(TreeNode root) {
+private int DFS(TreeNode root, *other params*) {
   if (root == null)                             
       return 0;
       
   * sometimes actions here
 
-  int left = Math.Max(DFS(root.left), 0);       //    call function using root.left and root.right
-  int right = Math.Max(DFS(root.right), 0);
+  int left = DFS(root.left, );       //    call function using root.left and root.right
+  int right = DFS(root.left, );
 
   * sometimes actions here
 
