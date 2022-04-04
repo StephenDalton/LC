@@ -161,23 +161,23 @@ public IList<IList<int>> LevelOrder(TreeNode root) {
 Tree Depth First Search Template (Recursive)
 ```c#
 public int SumNumbers(TreeNode root) {
-  DFS(root);
+      DFS(root);
 
-  return max;
+      return max;
 }
 
 private int DFS(TreeNode root, *other params*) {
-  if (root == null)                             
-      return 0;
-      
-  * sometimes actions here
+      if (root == null)                             
+            return 0;
 
-  int left = DFS(root.left, );       //    call function using root.left and root.right
-  int right = DFS(root.left, );
+      * sometimes actions here
 
-  * sometimes actions here
+      int left = DFS(root.left, );       //    call function using root.left and root.right
+      int right = DFS(root.left, );
 
-  return ;                                      //    return left and right (||, &&, +)
+      * sometimes actions here
+
+      return ;                                      //    return left and right (||, &&, +)
 }
 ```
 
