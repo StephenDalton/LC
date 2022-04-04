@@ -167,17 +167,17 @@ public int SumNumbers(TreeNode root) {
 }
 
 private int DFS(TreeNode root, /*other params*/) {
-      if (root == null)                             
+      if (root == null /* && */)                             
             return 0;
 
-      // * sometimes actions here
+      // * sometimes calculations/comparisons here
 
-      int left = DFS(root.left, );       //    call function using root.left and root.right
-      int right = DFS(root.left, );
+      int left = DFS(root.left, );       //     call function using root.left and root.right
+      int right = DFS(root.left, );      //     sometimes bool instead of int
 
-      // * sometimes actions here
+      // * sometimes calculations here
 
-      return ;                                      //    return left and right (||, &&, +)
+      return ;                           //    return left, right (||, &&, +)
 }
 ```
 
