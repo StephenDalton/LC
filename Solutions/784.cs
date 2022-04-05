@@ -4,7 +4,6 @@ public class Solution {
         List<string> result = new List<string>();
         
         Backtrack(result, 0, s.ToCharArray());
-        
         return result;
     }
     
