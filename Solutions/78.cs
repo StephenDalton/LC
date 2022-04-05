@@ -5,17 +5,17 @@ public class Solution {
     public IList<IList<int>> Subsets(int[] nums) {
         List<IList<int>> results = new List<IList<int>>();
         
-        backtrack(0, nums, new List<int>(), results);
+        Backtrack(0, nums, new List<int>(), results);
         return results;
     }
 
-    private void backtrack(int index, int [] nums, List<int> current, List<IList<int>> results) {
+    private void Backtrack(int index, int [] nums, List<int> current, List<IList<int>> results) {
         results.Add(new List<int>(current));
         
         for (int i=index; i<nums.Length; i++)
         {
             current.Add(nums[i]);
-            backtrack(i + 1, nums, current, results);
+            Backtrack(i + 1, nums, current, results);
             current.RemoveAt(current.Count - 1);
         }
     }
