@@ -6,7 +6,6 @@ public class Solution {
         List<IList<int>> results = new List<IList<int>>();
         
         backtrack(0, nums, new List<int>(), results);
-        
         return results;
     }
 
