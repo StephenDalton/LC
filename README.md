@@ -202,7 +202,7 @@ private int DFS(TreeNode root, /*other params*/) {
 | 78 | Subsets | Medium | [link](Solutions/78.cs) | [link](https://leetcode.com/problems/subsets/) |
 | 90 | Subsets II | Medium | [link](Solutions/90.cs) | [link](https://leetcode.com/problems/subsets-ii/) |
 | 46 | Permutations | Medium | [link](Solutions/46.cs) | [link](https://leetcode.com/problems/permutations/) |
-| 784 | Letter Case Permutation | Easy | [link](Solutions/784.cs) | [link](https://leetcode.com/problems/letter-case-permutation/) |
+| 784 | Letter Case Permutation | Medium | [link](Solutions/784.cs) | [link](https://leetcode.com/problems/letter-case-permutation/) |
 | 22 | Generate Parentheses | Medium | [link](Solutions/22.cs) | [link](https://leetcode.com/problems/generate-parentheses/) |
 | 320 | Generalized Abbreviations | Medium | [link](Solutions/320.cs) | [link](https://leetcode.com/problems/generalized-abbreviation/) |
 | 241 | Different Ways To Add Parentheses | Medium | [link](Solutions/241.cs) | [link](https://leetcode.com/problems/different-ways-to-add-parentheses/) |
