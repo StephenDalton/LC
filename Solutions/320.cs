@@ -7,7 +7,7 @@ public class Solution {
         return results;
     }
 
-    private void Backtrack(string word, string current, List<string> results,  int index, int count){
+    private void Backtrack(string word, string current, List<string> results,  int index, int count) {
         if(index == word.Length)
         {
             if(count > 0) 
