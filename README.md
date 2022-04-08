@@ -218,7 +218,7 @@ private int DFS(TreeNode root, /*other params*/) {
 | 704 | Binary Search | Easy | [link](Solutions/704.cs) | [link](https://leetcode.com/problems/binary-search/) |
 | 744 | Find Smallest Letter Greater Than Target | Easy | [link](Solutions/744.cs) | [link](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | [link](Solutions/34.cs) | [link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
-| 702 | Search in a Sorted Array of Unknown Size | Easy | [link](Solutions/702.cs) | [link](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) |
+| 702 | Search in a Sorted Array of Unknown Size | Medium | [link](Solutions/702.cs) | [link](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) |
 | 658 | Find K Closest Elements | Medium | [link](Solutions/658.cs) | [link](https://leetcode.com/problems/find-k-closest-elements/) |
 | 852 | Peak Index in a Mountain Array | Easy | [link](Solutions/852.cs) | [link](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |
 | 1095 | Find in Mountain Array | Hard | [link](Solutions/1095.cs) | [link](https://leetcode.com/problems/find-in-mountain-array/) |
