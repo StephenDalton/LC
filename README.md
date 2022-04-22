@@ -233,7 +233,7 @@ private int DFS(TreeNode root, /*other params*/) {
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 136 | Single Number | Easy | [link](Solutions/136.cs) | [link](https://leetcode.com/problems/single-number/) |
 | 137 | Single Number II | Medium | [link](Solutions/137.cs) | [link](https://leetcode.com/problems/single-number-ii/) |
-| 1009 | Complement Of Base 10 Integer | Medium | [link](Solutions/1009.cs) | [link](https://leetcode.com/problems/complement-of-base-10-integer/) |
+| 1009 | Complement Of Base 10 Integer | Easy | [link](Solutions/1009.cs) | [link](https://leetcode.com/problems/complement-of-base-10-integer/) |
 | 832 | Flipping An Image | Easy | [link](Solutions/832.cs) | [link](https://leetcode.com/problems/flipping-an-image/) |
 
 
