@@ -8,11 +8,11 @@ public class Solution {
         
         for (int i=0; i<nums.Length - 2; i++)
         {
-            int left = i + 1;
-            int right = nums.Length - 1;
-            
             if (i > 0 && nums[i] == nums[i - 1])
                 continue;
+            
+            int left = i + 1;
+            int right = nums.Length - 1;
             
             while (left < right)
             {
