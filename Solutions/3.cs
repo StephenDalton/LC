@@ -1,13 +1,12 @@
 //
 public class Solution {
     public int LengthOfLongestSubstring(string s) {
-        
         int max = 0;
+        
+        int[] map = new int[256];
         
         int start = 0;
         int end = 0;
-        
-        int[] map = new int[256];
         
         while (end < s.Length)
         {
