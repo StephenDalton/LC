@@ -1,7 +1,6 @@
 //
 public class Solution {
     public int MaxArea(int[] height) {
-        
         int max = 0;
         
         int left = 0;
