@@ -158,6 +158,7 @@ public IList<IList<int>> LevelOrder(TreeNode root) {
 | 543 | Diameter Of Binary Tree | Easy | [link](Solutions/543.cs) | [link](https://leetcode.com/problems/diameter-of-binary-tree/) |
 | 124 | Binary Tree Maximum Path Sum | Hard | [link](Solutions/124.cs) | [link](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |
 
+Tree Depth First Search Template (Iterative using stack)
 
 Tree Depth First Search Template (Recursive)
 ```c#
