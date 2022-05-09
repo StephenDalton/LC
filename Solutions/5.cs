@@ -22,7 +22,6 @@ public class Solution {
     }
     
     private int ExpandFromCenter(string s, int left, int right) {
-        
         while (left >= 0 && right < s.Length)
         {
             if (s[left] != s[right])
