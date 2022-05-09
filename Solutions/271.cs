@@ -17,7 +17,7 @@ public class Codec {
         var result = new List<string>();        
         var start = 0;
         
-        while(start < s.Length) //gotcha
+        while (start < s.Length)
         {
             var i = s.IndexOf("/", start);
             var len = Convert.ToInt32(s.Substring(start, i - start));
