@@ -1,4 +1,4 @@
-//
+//https://leetcode.com/problems/longest-repeating-character-replacement/discuss/358879/Java-Solution-Explained-and-Easy-to-Understand-for-Interviews
 public class Solution {
     public int CharacterReplacement(string s, int k) {
         
