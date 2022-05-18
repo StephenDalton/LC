@@ -8,7 +8,6 @@
  *     public TreeNode(int x) { val = x; }
  * }
  */
-
 public class Solution {
     public TreeNode LowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         if (root == null)
