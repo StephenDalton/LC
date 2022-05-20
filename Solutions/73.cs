@@ -10,10 +10,8 @@ public class Solution {
             {
                 if (matrix[i][j] == 0)
                 {
-                    if (i == 0)
-                        firstRow = true;
-                    if (j == 0)
-                        firstCol = true;
+                    if (i == 0) firstRow = true;
+                    if (j == 0) firstCol = true;
                     
                     matrix[0][j] = 0;
                     matrix[i][0] = 0;
