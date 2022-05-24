@@ -7,6 +7,7 @@ https://leetcode.com/discuss/study-guide/1854225/Full-Interview-Preparation-Guid
 
 https://medium.com/geekculture/the-4-step-method-my-students-use-to-maximize-leetcode-problems-and-ace-their-faang-interviews-2d5e0a6b1538
 
+https://leetcode.com/discuss/study-guide/1965086/How-to-practice-for-2200%2B-rating-in-LC
 
 ---
 ## Grokking Patterns
