@@ -1,5 +1,25 @@
 //https://leetcode.com/problems/find-pivot-index/discuss/109249/Java-6-liner
-
+public class Solution {
+    public int PivotIndex(int[] nums) {
+        int leftSum = 0, rightSum = 0;
+        
+        for (int i = 0; i < nums.Length; i++) 
+        {
+           rightSum += nums[i]; 
+        }
+            
+        for (int i = 0; i < nums.Length; i++) {
+            rightSum -= nums[i];
+            
+            if (leftSum == rightSum)
+                return i;
+            
+            leftSum += nums[i];
+        }
+        
+        return -1;
+    }
+}
 
 /*  Extra space
 
