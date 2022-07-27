@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/fizz-buzz/
+//
 public class Solution {
     public IList<string> FizzBuzz(int n) {
         List<string> results = new List<string>();
