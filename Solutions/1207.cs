@@ -1,7 +1,6 @@
 //https://leetcode.com/problems/unique-number-of-occurrences/
 public class Solution {
     public bool UniqueOccurrences(int[] arr) {
-        
         Dictionary<int, int> dictionary = new Dictionary<int, int>();
         HashSet<int> occurences = new HashSet<int>();
         
