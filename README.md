@@ -8,6 +8,7 @@ Random Resources
 - https://leetcode.com/discuss/study-guide/1965086/How-to-practice-for-2200%2B-rating-in-LC
 - https://leetcode.com/discuss/study-guide/1691931/Beginner's-guide-on-interview-preparation
 
+- https://leetcode.com/discuss/general-discussion/2339080/Do's-and-Dont's-for-your-next-Coding-Interview-(My-GoogleAmazon-Experience)
 
 ---
 ## Grokking Patterns
