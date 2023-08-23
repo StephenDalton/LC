@@ -4,14 +4,14 @@ public class Solution {
         
         HashSet<int> set = new HashSet<int>();
         
-        for (int i=0; i<nums.Length; i++)
+        foreach(var num in nums)
         {
-            if (set.Contains(nums[i]))
+            if (set.Contains(num))
                 return true;
-            else 
-                set.Add(nums[i]);
+
+            set.Add(num);
         }
-        
+
         return false;
     }
 }
